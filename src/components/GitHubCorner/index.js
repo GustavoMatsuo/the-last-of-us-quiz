@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Lottie } from '@crello/react-lottie'
-import gitHubIcon from './animations/github-icon.json'
+//import { Lottie } from '@crello/react-lottie'
+//import gitHubIcon from  './animations/Octocat.png'
 
 const Wrapper = styled.div`
   position: absolute;
@@ -33,7 +33,7 @@ const Wrapper = styled.div`
 const Octocat = styled.div`
   width: 55px;
   height: 55px;
-  margin: 10px 10px 0px 0px;
+  margin: 20px 20px 0px 0px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -54,7 +54,8 @@ export default function GitHubCorner({ projectUrl }) {
     <Wrapper>
       <a href={projectUrl} target="_blank" rel="noreferrer" style={{textDecoration: 'none'}}>
         <Octocat className="octocat">
-          <Lottie config={{animationData: gitHubIcon, loop: true, autoplay: true}} width="35px" height="35px"/>
+          <img src='https://i.imgur.com/UqKK5iz.png' style={{width:"35px", height:"35px"}}></img>
+          {/*<Lottie config={{animationData: gitHubIcon, loop: true, autoplay: true}} width="35px" height="35px"/>*/}
           <Letter className="github-letter">GitHub</Letter>
         </Octocat>
       </a>
