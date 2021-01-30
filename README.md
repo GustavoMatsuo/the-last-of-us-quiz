@@ -7,7 +7,7 @@ Aplicação construída no curso Imersão React Next.js 2 edição da Alura, o c
 - Styled-components
 - Framer-motion
 
-#### QUIZ:   `URL` 
+#### LINK: [Quiz](https://the-last-of-us-quiz.gustavomatsuo.vercel.app/) 
 
 ![home-quiz](https://i.imgur.com/P6CxNEs.jpg)
 
