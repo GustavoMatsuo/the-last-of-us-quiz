@@ -1,0 +1,87 @@
+{
+  "bg": "https://i.imgur.com/FwCHH6B.png",
+  "title": "Quiz - The Last of Us",
+  "description": "Teste seu conhecimento sobre The Last of Us",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/13EgsbsNCLHXJm/giphy.gif",
+      "title": "Antes de começar uma coisinha: ALERTA DE SPOILER. Recado dado agora vamos a pergunta, o que faz a Ellie diferente dos demais?",
+      "description": "Pergunta fácil para começar",
+      "answer": 1,
+      "alternatives": [
+        "Ela é inteligente",
+        "Ela é imune",
+        "Ela é imortal"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/ZYKNCcCyiU2mxmegta/giphy.gif",
+      "title": "Na cena final de The Last of Us 2 o que Joel estava bebendo enquanto conversava com a Ellie?",
+      "answer": 1,
+      "alternatives": [
+        "Cerveja",
+        "Café",
+        "Chá"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/Sw6fiilaRDWz7KW5x5/giphy.gif",
+      "title": "Você lembra o nome do fungo responsável pelo apocalipse?",
+      "description": "Vamos deixar o lado científico de lado, baseando se apenas no que é citado no jogo, OK",
+      "answer": 0,
+      "alternatives": [
+        "Cordyceps",
+        "Cordylia",
+        "Metacordyceps"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/elK9EJTjefNmfP8WKj/giphy.gif",
+      "title": "Qual o maior medo de Ellie?",
+      "description": "Dica: ela falou no The Last of Us 1",
+      "answer": 2,
+      "alternatives": [
+        "Morrer",
+        "Locais escuros",
+        "Ficar sozinha"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/wj5y1RrV8F66s/giphy.gif",
+      "title": "Qual o nome da primeira parceira do Joel que o jogo nos apresentada em The Last of Us 1?",
+      "description": "Deixei a imagem para facilitar em",
+      "answer": 2,
+      "alternatives": [
+        "Marlene",
+        "Sarah",
+        "Tess"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/Rzz42vuymgHUWGiWsm/giphy.gif",
+      "title": "Em quanto a Ellie e Dina estavam atras da Abby, elas encontram uma loja de discos e lá a Ellie toca uma música para Dina, sabe qual é?",
+      "description": "Essa é apenas para os exploradores do jogo, que acharam a sala. Se você não viu ainda procura DEPOIS no youtube, vale a pena!",
+      "answer": 1,
+      "alternatives": [
+        "Pearl Jam - Black",
+        "a-ha - Take On Me",
+        "Rolling Stones - Wild Horses"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://lotr-quiz.filipe1309.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#00754B",
+      "secondary": "#00754B",
+      "mainBg": "#303030",
+      "contrastText": "#FFFFFF",
+      "wrong": "#d00000",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "7px"
+  }
+}
